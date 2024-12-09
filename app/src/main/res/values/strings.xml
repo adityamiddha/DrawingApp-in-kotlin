@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrawingApp</string>
+    <string name="small_brush_description">Small Brush</string>
+    <string name="medium_brush_description">Medium Brush</string>
+    <string name="large_brush_description">Large Brush</string>
+
+    <string name="brush_button_description">Brush Button</string>
+</resources>
